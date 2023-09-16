@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [iethemsag.com.tr](iethemsag.com.tr)
 
-- 📫 How to reach me **sagibrahimethem@gamil.com**
+- 📫 How to reach me **sagibrahimethem@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
