@@ -1,4 +1,4 @@
-![Alt text](https://github.com/iethemsag/iethemsag/assets/143362507/71dc40c7-ab85-4f67-aeef-9fc06705ecca)
+![Alt text](https://github.com/iethemsag/iethemsag/assets/143362507/71dc40c7-ab85-4f67-aeef-9fc06705ecca
 )
 <h1 align="center">Hi 👋, I'm Ibrahim Ethem</h1>
 <h3 align="center">A passionate frontend and backend developer from Germany</h3>
