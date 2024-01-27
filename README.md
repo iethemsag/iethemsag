@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Chat Platform**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Swift**
 
 - 👨‍💻 All of my projects are available at [iethemsag.com.tr](iethemsag.com.tr)
 
