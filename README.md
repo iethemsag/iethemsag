@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Ethem</h1>
 <h3 align="center">A passionate frontend and backend developer from Germany</h3>
 
-- 🔭 I’m currently working on **Chat Platform**
+- 🔭 I’m currently working on **Timer App**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Swift**
 
 - 👨‍💻 All of my projects are available at [iethemsag.com.tr](iethemsag.com.tr)
 
