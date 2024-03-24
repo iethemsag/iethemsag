@@ -6,7 +6,7 @@
 ## **<div align="center">Hi 👋, I'm Ibrahim Ethem</div>**  
   
 
-**<div align="center">A passionate frontend and backend developer from Germany</div>**  
+**<div align="center">A passionate Frontend and C# Game developer from Germany</div>**  
   
 
 - 🔭 I’m currently working on Game  
