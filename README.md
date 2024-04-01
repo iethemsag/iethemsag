@@ -49,13 +49,6 @@
 
 </td><td valign="top" width="33%">
 
-### Mobile 
-<div align="center">  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://github.com/iethemsag/iethemsag/assets/143362507/83c2d8c3-a421-4e3f-9532-7d591fb8d16e)" alt="Flutter" height="50" /></a>  
-  <a href="https://developer.apple.com/" target="_blank"><img style="margin: 10px" src="https://github.com/iethemsag/iethemsag/assets/143362507/96780312-bde0-47a6-a641-7437702502e9" alt="Swift" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
 
 ### DevOps  
 <div align="center">  
