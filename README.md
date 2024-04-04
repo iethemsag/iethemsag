@@ -45,10 +45,17 @@
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
+<a href="https:/cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://github.com/iethemsag/iethemsag/assets/143362507/cc00833d-de61-44c5-879f-bfeb92049e11" alt="C++" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
 
+#### Mobile
+<div align="center">  
+<a href="https://developer.apple.com/" target="_blank"><img style="margin: 10px" src="https://github.com/iethemsag/iethemsag/assets/143362507/ed75c4b9-b061-412c-bc26-b10745912438" alt="Swift" height="40" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
 
 ### DevOps  
 <div align="center">  
