@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on Game  
   
 
-- 🌱 I’m currently learning **Flutter**  
+- 🌱 I’m currently learning **C*+**  
   
 
 - 👨‍💻 All of my projects are available at [iethemsag.com.tr](http://iethemsag.com.tr)  
