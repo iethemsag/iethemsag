@@ -9,10 +9,10 @@
 **<div align="center">A passionate Frontend and Flutter developer from Germany</div>**  
   
 
-- 🔭 I’m currently working on Game  
+- 🔭 I’m currently working on Project  
   
 
-- 🌱 I’m currently learning **C++**  
+- 🌱 I’m currently learning **Java**  
   
 
 - 👨‍💻 All of my projects are available at [iethemsag.com.tr](http://iethemsag.com.tr)  
