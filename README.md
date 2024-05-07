@@ -6,7 +6,7 @@
 ## **<div align="center">Hi 👋, I'm Ibrahim Ethem</div>**  
   
 
-**<div align="center">A passionate Frontend and Flutter developer from Germany</div>**  
+**<div align="center">A passionate Backend and Java developer from Germany</div>**  
   
 
 - 🔭 I’m currently working on Project  
