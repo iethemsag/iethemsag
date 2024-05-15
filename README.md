@@ -6,13 +6,13 @@
 ## **<div align="center">Hi 👋, I'm Ibrahim Ethem</div>**  
   
 
-**<div align="center">A passionate Backend and Java developer from Germany</div>**  
+**<div align="center">A passionate iOS developer from Germany</div>**  
   
 
 - 🔭 I’m currently working on Project  
   
 
-- 🌱 I’m currently learning **Java**  
+- 🌱 I’m currently learning **Swift**  
   
 
 - 👨‍💻 All of my projects are available at [iethemsag.com.tr](http://iethemsag.com.tr)  
