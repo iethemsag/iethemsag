@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://github.com/iethemsag/iethemsag/assets/143362507/98f37f43-fcfd-40ae-b5e9-3233221cce34" align="center" style="width: 100%" />
+<img src="https://github.com/user-attachments/assets/e0e33bc5-df1a-497c-acdd-0a1938586d09" align="center" style="width: 100%" />
 </div>  
-  
+
 
 ## **<div align="center">Hi 👋, I'm Ibrahim Ethem</div>**  
   
