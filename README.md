@@ -1,12 +1,7 @@
-<div align="center">
-<img src="https://github.com/user-attachments/assets/e0e33bc5-df1a-497c-acdd-0a1938586d09" align="center" style="width: 100%" />
-</div>  
-
-
 ## **<div align="center">Hi 👋, I'm Ibrahim Ethem</div>**  
   
 
-**<div align="center">A passionate Java developer from Germany</div>**  
+**<div align="center">A passionate iOS developer from Germany</div>**  
   
 
 - 🔭 I’m currently working on Project  
