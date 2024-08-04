@@ -1,72 +1,39 @@
-## **<div align="center">Hi 👋, I'm Ibrahim Ethem</div>**  
-  
-
-**<div align="center">A passionate iOS developer from Germany</div>**  
-  
-
-- 🔭 I’m currently working on Project  
-  
-
-- 🌱 I’m currently learning **Swift**  
-  
-
-- 👨‍💻 All of my projects are available at [iethemsag.com.tr](http://iethemsag.com.tr)  
-  
-
-- 📫 How to reach me sagibrahimethem@gmail.com  
+ <li>
+                        ❤️ I love
+                        <a href="https://github.com/iethemsag/GroceryAppSwiftUI-1">apps</a>
+                        and making things that are
+                        <a href="https://github.com/iethemsag/TimerApp">useful</a>
+                        to others.
+                    </li>
+                    <li>
+                        🧠 I'm always trying to expand my knowledge and skillset, so I'm learning Swift 🔨 right now.
+                    </li>
+                    <li>
+                        💡 I like to learn about anything that sparks my interest, like
+                        <a href="https://github.com/iethemsag/sweizzer-anime-watch">web development</a>,
+                        <a href="https://github.com/lemonyte/stegosaurus">Apps</a>.
+                    </li>
+                    <li>
+                        🔥 I believe in writing structured, readable, maintainable code, and occasionally having some
+                        <a href="https://github.com/iethemsag/fun">fun</a>.
+                    </li>
+                    <li>
+                        🤝 I'm quite
+                        <a href="https://liberamanifesto.com">fond of open source</a>
+                        and I'm always looking for ways to contribute and give back.
+                    </li>
+                    <li>
+                        💭 I'm dreaming of a future where software and hardware exist in the hands of the people, for
+                        the people, and by the people, without technological limitations.
+                    </li>
   
 
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## My Skill Set
 
-
-
-### Frontend  
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
-<a href="https:/cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://github.com/iethemsag/iethemsag/assets/143362507/cc00833d-de61-44c5-879f-bfeb92049e11" alt="C++" height="50" /></a>
-</div>
-
-</td><td valign="top" width="33%">
-
-#### Mobile
-<div align="center">  
-<a href="https://developer.apple.com/" target="_blank"><img style="margin: 10px" src="https://github.com/iethemsag/iethemsag/assets/143362507/ed75c4b9-b061-412c-bc26-b10745912438" alt="Swift" height="40" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
-</div>
-
-</td></tr></table>  
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,html,css,svelte,react,swift,cpp,java,php,mysql,git,firebase,linux,postgresql,figma,bootstrap,bash)](https://skillicons.dev)
 
 <br/>  
 
